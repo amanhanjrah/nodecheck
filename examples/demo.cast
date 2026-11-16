@@ -1,0 +1,8 @@
+{"version":2,"width":100,"height":12,"timestamp":1736942400,"env":{"SHELL":"/bin/bash","TERM":"xterm-256color"}}
+[0.0,"o","$ ./bin/nodecheck scan --demo\r\n"]
+[0.4,"o","WARN  /var is 91.0% full\r\n"]
+[0.7,"o","OK  Memory usage is 62.5% within limits\r\n"]
+[1.0,"o","INFO  Load average: 0.42, 0.58, 0.61\r\n"]
+[1.3,"o","WARN  2 systemd services failed\r\n"]
+[1.6,"o","INFO  14 package updates available\r\n"]
+[1.9,"o","INFO  Host: demo-linux-host | Linux 6.8.0-demo | kernel 6.8.0-demo\r\n"]
